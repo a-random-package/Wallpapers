@@ -1,0 +1,41 @@
+
+{
+   "wallpapers": [
+      {
+         "author": "Alex Miller",
+         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4359.jpg",
+         "name": "Baked On Maui",
+         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/baked_on_maui_thumb.png"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/buildings.jpg",
+         "name": "Heads Up",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/buildings_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/flamingos.jpg",
+         "name":" Flamingos",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/flamingos_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/forest_one.png",
+         "name": "Forest",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/forest_one_thumb.jpg"
+      },
+      {
+         "author": "Tom Wellington",
+         "url": "https://github.com/afollestad/polar_json/raw/master/tree_farm.jpg",
+         "name": "Tree Farm",
+         "thumbnail": "https://github.com/afollestad/polar_json/raw/master/tree_farm_thumb.jpg"
+      },
+      {
+         "author":"Tom Wellington",
+         "url":"https://github.com/afollestad/polar_json/raw/master/tree_tops.jpg",
+         "name":"Tree Tops",
+         "thumbnail":"https://github.com/afollestad/polar_json/raw/master/tree_tops_thumb.jpg"
+      }
+   ]
+}
