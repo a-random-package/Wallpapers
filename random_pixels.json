@@ -18,8 +18,13 @@
         },
         {
             "name":"Palm Tree Porn",
-            "preview_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/unsplash_d.png",
-            "preview_thumbnail_url":"https://github.com/jahirfiquitiva/Website-Resources/raw/master/wallpapers/thumbnails/unsplash_d.png"
+            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4798.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/aunty_lucys_prerogative_thumb.png"
+        },
+        {
+            "name":"Upcountry Forest",
+            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4581.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/her_name_is_mary_katherine_thumb.png"
         }
     ],
    "wallpapers": [
@@ -36,7 +41,10 @@
          "author": "Alex Miller",
          "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4412.jpg",
          "name": "Southside Palms",
-         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/southside_palms_thumb.png"
+         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/southside_palms_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn"
       },
       {
          "author": "Alex Miller",
@@ -48,13 +56,19 @@
          "author": "Alex Miller",
          "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4581.jpg",
          "name": "Her Name Is Mary Katherine",
-         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/her_name_is_mary_katherine_thumb.png"
+         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/her_name_is_mary_katherine_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"upcountry forest"
       },
       {
          "author": "Alex Miller",
          "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4767.jpg",
          "name": "Complicated Pineapple",
-         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/complicated_pineapple_thumb.png"
+         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/complicated_pineapple_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"upcountry forest"
       },
       {
          "author":"Alex Miller",
@@ -66,7 +80,10 @@
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4798.jpg",
          "name":"Aunty Lucy's Perogative",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/aunty_lucys_prerogative_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/aunty_lucys_prerogative_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn"
       },
       {
          "author":"Alex Miller",
