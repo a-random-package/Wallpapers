@@ -3,8 +3,8 @@
   "Collections":[
         {
             "name":"Flower Stalking",
-            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_5470.jpg",
-            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/from_the_side_of_the_path_thumb.png"
+            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6192.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/secrets_within_thumb.png"
         },
         {
             "name":"Beaches Of Hawaii",
@@ -25,6 +25,11 @@
             "name":"Upcountry Forest",
             "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4581.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/her_name_is_mary_katherine_thumb.png"
+        },
+        {
+            "name":"Theme Papers",
+            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_android.png",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_small.png"
         }
     ],
    "wallpapers": [
@@ -50,7 +55,9 @@
          "author": "Alex Miller",
          "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4526.jpg",
          "name":"Don't Ask",
-         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/dont_ask_thumb.png"
+         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/dont_ask_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator"
       },
       {
          "author": "Alex Miller",
@@ -74,7 +81,10 @@
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4769.jpg",
          "name":"Makawao Minit Stop",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/makawao_minit_stop_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/makawao_minit_stop_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"upcountry forest"
       },
       {
          "author":"Alex Miller",
@@ -89,19 +99,27 @@
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4871.jpg",
          "name":"Shells Of Paia",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/shells_of_paia_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/shells_of_paia_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4873.jpg",
          "name":"Bay Hoop Dreams",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bay_hoop_dreams_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bay_hoop_dreams_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"beaches of hawaii"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4947.jpg",
          "name":"Palms Throwing Shade",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palms_throwing_shade_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palms_throwing_shade_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn"
       },
       {
          "author":"Alex Miller",
@@ -116,25 +134,36 @@
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_5470.jpg",
          "name":"From The Side of The Path",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/from_the_side_of_the_path_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/from_the_side_of_the_path_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_5474.jpg",
          "name":"Bamboo Wisdom",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bamboo_wisdom_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bamboo_wisdom_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_5598.jpg",
          "name":"Clear Day",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/clear_day_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/clear_day_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn,beaches of hawaii"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_5624.jpg",
          "name":"Old School Golden Cool",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/old_school_golden_cool_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/old_school_golden_cool_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"flower stalking"
       },
       {
          "author":"Alex Miller",
@@ -158,31 +187,44 @@
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6294.jpg",
          "name":"Quick Five",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/quick_five_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/quick_five_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6396.jpg",
          "name":"Akoni Street Vibes",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/akoni_street_vibes_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/akoni_street_vibes_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"flower stalking"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6524.jpg",
          "name":"Suddenly Sunrise",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suddenly_sunrise_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suddenly_sunrise_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"flower stalking"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6690.jpg",
          "name":"Suddenly Sunset",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suddenly_sunset_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suddenly_sunset_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"palm tree porn,beaches of hawaii"
       },
       {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6968.jpg",
          "name":"This Is The Place",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/this_is_the_place_thumb.png"
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/this_is_the_place_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator"
       }
    ]
 }
