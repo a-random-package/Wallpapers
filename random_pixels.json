@@ -269,6 +269,15 @@
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
+      },
+      {
+         "author":"TO DO: Look up the artist",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_android.png",
+         "name":"Android Waves",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_small.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
       }
    ]
 }
