@@ -224,6 +224,33 @@
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/cloudless.png",
+         "name":"Cloudless",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/cloudless.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/F_One.png",
+         "name":"Focus One",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/F_One_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyFour.jpg",
+         "name":"Influx LP 4",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyFourThumb.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
       }
    ]
 }
