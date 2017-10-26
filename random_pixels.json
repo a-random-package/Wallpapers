@@ -227,9 +227,9 @@
       },
       {
          "author":"Alex Miller",
-         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/cloudless.png",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Cloudless.png",
          "name":"Cloudless",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/cloudless.png",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/cloudless_thumb.png",
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
@@ -248,6 +248,24 @@
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyFour.jpg",
          "name":"Influx LP 4",
          "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyFourThumb.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyOne.jpg",
+         "name":"Influx LP 1",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/InfluxLowPolyOneThumb.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Napili_RainD.png",
+         "name":"Napili Rain",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/napili_small.png",
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
