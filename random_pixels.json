@@ -182,6 +182,15 @@
          "copyright":"Credits to its creator"
       },
       {
+         "author":"TO DO: Look up the artist",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_android.png",
+         "name":"Android Waves",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_small.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
          "author":"Alex Miller",
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6396.jpg",
          "name":"Akoni Street Vibes",
@@ -266,15 +275,6 @@
          "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Napili_RainD.png",
          "name":"Napili Rain",
          "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/napili_small.png",
-         "dimensions":"4032x3024",
-         "copyright":"Credits to its creator",
-         "collections":"theme papers"
-      },
-      {
-         "author":"TO DO: Look up the artist",
-         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_android.png",
-         "name":"Android Waves",
-         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wave_small.png",
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
