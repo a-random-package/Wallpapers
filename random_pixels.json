@@ -324,5 +324,23 @@
          "copyright":"Credits to its creator",
          "collections":"theme papers"
       },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Kale-Salad.jpg",
+         "name":"Crispy Kale Salad0",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/KaleSmall.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Neptunes-Resurgance-Nexus-5-And-iPhone-6-Plus.png",
+         "name":"Neptunes Resurgance",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Neptunes-Resurgance-Nexus-5-And-iPhone-6-Plus.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      }
    ]
 }
