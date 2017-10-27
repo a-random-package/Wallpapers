@@ -278,6 +278,51 @@
          "dimensions":"4032x3024",
          "copyright":"Credits to its creator",
          "collections":"theme papers"
-      }
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/sunset.jpg",
+         "name":"Ainokea",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/sunset_small.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/shatteredisland.jpg",
+         "name":"Shattered Island",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/shatteredsmall.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suncircles.png",
+         "name":"Sunlit Spheres",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/suncircles_thumb.png",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/we_are_small.jpg",
+         "name":"We Are Small",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/we_are_small.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
+      {
+         "author":"Alex Miller",
+         "url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall_5.jpg",
+         "name":"Enter The Dragons Den",
+         "thumbnail":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall_5_small.jpg",
+         "dimensions":"4032x3024",
+         "copyright":"Credits to its creator",
+         "collections":"theme papers"
+      },
    ]
 }
