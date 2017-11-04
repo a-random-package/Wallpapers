@@ -83,11 +83,19 @@
      },
      {
         "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/opihi_rest_stop.JPG",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Opihi_rest_stop.JPG",
         "name": "Opi'hi Rest Stop",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/opihi_rest_stop_thumb.png",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Opihi_rest_stop_thumb.png",
         "copyright":"Not labeled for reuse without permission",
         "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red_tides.JPG",
+        "name": "Red Tides",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red_tides_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
      },
       {
          "author": "Alex Miller",
