@@ -33,6 +33,62 @@
         }
     ],
    "wallpapers": [
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red_sand_redemption.JPG",
+        "name": "Red Sand Redemption",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red_sand_redemption_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/reflections_of_paradie.JPG",
+        "name": "Reflections of Paradise",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/reflections_of_paradise_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/sunrise_all_stars.JPG",
+        "name": "Sunrise All Stars",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/sunrise_all_stars_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/stars_fall.JPG",
+        "name": "Stars Fall",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/stars_fall_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/forest_trip.JPG",
+        "name": "Forest Trip",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/forest_trip_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bamboo_vibes.JPG",
+        "name": "Bamboo Vibes",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/bamboo_vibes_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/opihi_rest_stop.JPG",
+        "name": "Opi'hi Rest Stop",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/opihi_rest_stop_thumb.png",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
       {
          "author": "Alex Miller",
          "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_4359.JPG",
