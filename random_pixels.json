@@ -35,6 +35,33 @@
    "wallpapers": [
      {
         "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/captivated_by_motion.JPG",
+        "name": "Captivated By Motion",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/captivated_by_motion_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/makawao_orange_grove.JPG",
+        "name": "Makawao Orange Grove",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/makawao_orange_grove_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"upcountry forest"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/honey_i_shrunk_the_wall.JPG",
+        "name": "Honey I Shrunk The Wallpaper",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/honey_i_shrunk_the_wall_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/behold_the_sound.jpg",
         "name": "Behold The Sound of the Color as it Booms",
         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/behold_the_sound_thumb.jpg",
@@ -62,7 +89,7 @@
      },
      {
         "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/akoni_street_vibes_two.jpg",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/akoni_street_vibes_two.JPG",
         "name": "Akoni Street Vibes Two",
         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/akoni_street_vibes_two_thumb.jpg",
         "dimensions":"2948x3948",
