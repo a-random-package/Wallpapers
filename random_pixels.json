@@ -35,6 +35,33 @@
    "wallpapers": [
      {
         "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/falling_into_place.JPG",
+        "name": "Falling Into Place",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/falling_into_place_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/dripping_skills.JPG",
+        "name": "Dripping With Skills",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/dripping_skills_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/air_traffic_noir.JPG",
+        "name": "Air Traffic Noir",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/air_traffic_noir_thumb.jpg",
+        "dimensions":"3024x4032",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"palm tree porn"
+     },
+     {
+        "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/captivated_by_motion.JPG",
         "name": "Captivated By Motion",
         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/captivated_by_motion_thumb.jpg",
