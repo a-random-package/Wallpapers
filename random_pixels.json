@@ -35,6 +35,42 @@
    "wallpapers": [
      {
         "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/industrial_by_design.jpg",
+        "name": "Industrial By Design",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/industrial_by_design_thumb.jpg",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/it_makes_one_wonder.jpg",
+        "name": "It Makes One Wonder",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/it_makes_one_wonder_thumb.jpg",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/paia_bay_dream_sequence.jpg",
+        "name": "Paia Bay Dream Sequence",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/paia_dream_sequence_thumb.jpg",
+        "dimensions":"3682x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/the_next_stop_is_the_pit.jpg",
+        "name": "The Next Stop Is The Pit",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/next_stop_pit_thumb.jpg",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"beaches of hawaii"
+     },
+     {
+        "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/falling_into_place.JPG",
         "name": "Falling Into Place",
         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/falling_into_place_thumb.jpg",
