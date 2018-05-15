@@ -7,6 +7,11 @@
             "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/secrets_within_thumb.png"
         },
         {
+            "name":"Street Shots",
+            "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash.jpg",
+            "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash_thumb.png"
+        },
+        {
             "name":"Beaches Of Hawaii",
             "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6789.jpg",
             "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pools_of_lanes_thumb.png"
@@ -33,6 +38,33 @@
         }
     ],
    "wallpapers": [
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash.jpg",
+        "name": "Pale Wash",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash_thumb.png",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"street shots"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palm_shade.jpg",
+        "name": "Palm Shade",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palm_shade_thumb.png",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"palm tree porn"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palm_bay.jpg",
+        "name": "Palm Bay",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/palm_bay_thumb.png",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"palm tree porn"
+     },
      {
         "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/industrial_by_design.jpg",
