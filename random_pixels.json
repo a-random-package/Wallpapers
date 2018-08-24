@@ -40,12 +40,75 @@
    "wallpapers": [
      {
         "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/rule_two.jpg",
+        "name": "In Observance Of Rule Two",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/rule_two_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/fuel_for_the_fire.jpg",
+        "name": "Fuel For The Fire",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/fuel_for_the_fire_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/minor_disturbnace.jpg",
+        "name": "Minor Disturbance",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/minor_disturbnace_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wrapped_up.jpg",
+        "name": "Wrapped Up",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wrapped_up_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Wild_Fences.jpg",
+        "name": "Wild Fences",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wild_fences_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash.jpg",
         "name": "Pale Wash",
         "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pale_wash_thumb.png",
         "dimensions":"6000x4000",
         "copyright":"Not labeled for reuse without permission",
         "collections":"street shots"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Crossing_Paths.jpg",
+        "name": "Crossing Paths",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/crossing_paths_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/Hurricane_lame.jpg",
+        "name": "Hurricane Lame",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/hurricane_lame_thumb.png",
+        "dimensions":"6000x4000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"flower stalking"
      },
      {
         "author": "Alex Miller",
