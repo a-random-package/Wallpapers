@@ -1,6 +1,11 @@
 
 {
   "Collections":[
+    {
+        "name":"Fine Art Food",
+        "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs.jpg",
+        "preview_thumbnail_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs_thumb.png"
+    },
         {
             "name":"Flower Stalking",
             "preview_url":"https://raw.githubusercontent.com/a-random-package/Wallpapers/master/IMG_6192.jpg",
@@ -38,6 +43,42 @@
         }
     ],
    "wallpapers": [
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs.jpg",
+        "name": "Cage Free",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"fine art food"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs2.jpg",
+        "name": "Farm Fresh",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs2_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"fine art food"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs3.jpg",
+        "name": "No Steroids",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/eggs3_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"fine art food"
+     },
+     {
+        "author": "Alex Miller",
+        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/avo.jpg",
+        "name": "Avo Lov",
+        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/avo_thumb.png",
+        "dimensions":"3376x6000",
+        "copyright":"Not labeled for reuse without permission",
+        "collections":"fine art food"
+     },
      {
         "author": "Alex Miller",
         "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/rule_two.jpg",
