@@ -14,21 +14,9 @@
     },
     {
       "author": "A Random Package",
-      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/green.png",
-      "name": "Me Gusta Lo Verde",
-      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/green.png"
-    },
-    {
-      "author": "A Random Package",
       "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/grey.png",
       "name": "Grey Area",
       "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/grey.png"
-    },
-    {
-      "author": "A Random Package",
-      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pink.png",
-      "name":"Desert Flamingos",
-      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/pink.png"
     },
       {
       "author": "A Random Package",
@@ -59,6 +47,18 @@
       "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/yellow.png",
       "name":"Vintage Bourgeoisie",
       "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/yellow.png"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/green.png",
+      "name": "Me Gusta Lo Verde",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/green.png"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pink.png",
+      "name":"Desert Flamingos",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/pink.png"
     }
   ]
 }
