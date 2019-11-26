@@ -1,84 +1,64 @@
 {
-   "wallpapers": [
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/black@2x.png",
-        "name": "Black",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/black@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/blue@2x.png",
-        "name": "Blue",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/blue@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/green@2x.png",
-        "name": "Green",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/green@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/grey@2x.png",
-        "name": "Grey",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/grey@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pink@2x.png",
-        "name": "Pink",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/pink@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/purple@2x.png",
-        "name": "Purple",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/purple@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red@2x.png",
-        "name": "Red",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/red@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/teal@2x.png",
-        "name": "Teal",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/teal@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/white@2x.png",
-        "name": "White",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/white@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     },
-     {
-        "author": "Alex Miller",
-        "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/yellow@2x.png",
-        "name": "Yellow",
-        "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/yellow@2x.png",
-        "dimensions":"3376x6000",
-        "copyright":"Not labeled for reuse without permission",
-     }
-   ]
- }
+  "wallpapers": [
+      {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/black@2x.png",
+      "name": "Charcoal",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/black@2x.png"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies.png",
+      "name": "Lazy Daisies",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/lazy-daisies-small.png"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/banded_1.jpg",
+      "name": "Banded One",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/five_small.jpg"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/Napili_Rain.jpg",
+      "name": "Napili Rain",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/napili_small.png"
+    },
+    {
+      "author": "YA Design",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/Binho_banded.jpg",
+      "name":"Binho",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/binho_banded_small.png"
+    },
+      {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedthree.png",
+      "name":"At The Top",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/three_small.jpg"
+    },
+       {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedtwo.png",
+      "name":"For The Trees",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/two_small.jpg"
+    },
+      {
+      "author": "YA Design",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/bandedfour.png",
+      "name":"Banded Four",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/four_small.png"
+    },
+       {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/dock_dark.jpg",
+      "name": "Settled",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/one_small_dark.jpg"
+    },
+    {
+      "author": "A Random Package",
+      "url": "https://raw.github.com/a-random-package/banded-wallpapers/master/CastAway.png",
+      "name":"Castaway",
+      "thumbnail": "https://raw.github.com/a-random-package/banded-wallpapers/master/castaway_small.jpg"
+    }
+  ]
+}
