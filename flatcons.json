@@ -2,9 +2,9 @@
   "wallpapers": [
       {
       "author": "A Random Package",
-      "url": "https://github.com/a-random-package/Wallpapers/blob/master/black.png",
+      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/black.png",
       "name": "Charcoal",
-      "thumbnail": "https://github.com/a-random-package/Wallpapers/blob/master/black.png.png"
+      "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/black.png"
     },
     {
       "author": "A Random Package",
