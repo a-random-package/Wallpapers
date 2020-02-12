@@ -1,6 +1,102 @@
 {
   "wallpapers": [
     {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo.png",
+      "name": "Random Stamped",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo_dark.png",
+      "name": "Random Stamped (Dark)",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo_dark.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/random_supreme_white.png",
+      "name": "Random",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/random_supreme_white.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/shakas_80s_test.png",
+      "name": "Throw Shakas Not Shade (pt. 2)",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/shakas_80s_test.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/ubuntu_r.png",
+      "name": "Ubuntu R",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/ubuntu_r.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/golden_influx_black.png",
+      "name": "Gold ARP Logo",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/golden_influx_black.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/norhshore_maui.png",
+      "name": "Tha North Shore",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/norhshore_maui.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/waikapu_on_fire.png",
+      "name": "Waikapu On Fire",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/waikapu_on_fire.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/laniopoko.png",
+      "name": "Laniopoko",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/laniopoko.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/upcountry_rain_two.png",
+      "name": "Upcountry Rain Two",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/upcountry_rain_two.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/desert_sunset.png",
+      "name": "Desert Sunsets",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/desert_sunset.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/chamomille_and_lavendar.png",
+      "name": "Chamomille & Lavendar",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/chamomille_and_lavendar.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/want_some_limes.png",
+      "name": "Want Some Limes?",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/want_some_limes.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/energy_location_two.png",
+      "name": "Energy Location Two",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/energy_location_two.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/energy_location_one.png",
+      "name": "Energy Location One",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/energy_location_one.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/blue_suade_shade.png",
+      "name": "Blue Suade Shade",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/blue_suade_shade.png"
+    },
+    {
       "author": "Pattern By: repiano",
       "url": "https://raw.github.com/a-random-package/Wallpapers/master/memphys.png",
       "name": "Memphys",
