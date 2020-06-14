@@ -2,6 +2,18 @@
   "wallpapers": [
     {
       "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/Minimo_waves.png",
+      "name": "Minimo Waves",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/Minimo_waves.png"
+    },
+    {
+      "author": "By: A Random Package",
+      "url": "https://raw.github.com/a-random-package/Wallpapers/master/quails_eye_view.png",
+      "name": "Quails Eye View",
+      "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/quails_eye_view.png"
+    },
+    {
+      "author": "By: A Random Package",
       "url": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo.png",
       "name": "Random Stamped",
       "thumbnail": "https://raw.github.com/a-random-package/Wallpapers/master/stamped_logo.png"
