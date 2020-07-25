@@ -1,8 +1,18 @@
 [
-    {
-      "author": "By: A Random Package",
-      "url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png",
-      "name": "Neu Dark",
-      "thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png"
-    }
+	{
+		"name": "Neu Dark",
+		"author": "Arandompackage",
+		"url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png",
+		"thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+    "name": "Neu Dark",
+		"author": "Arandompackage",
+		"url": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png",
+		"thumbnail": "https://raw.githubusercontent.com/a-random-package/Wallpapers/master/wall.png",
+		"downloadable": true,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	}
 ]
